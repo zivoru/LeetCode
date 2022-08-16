@@ -8,7 +8,6 @@ import java.util.Map;
  * Author : Zimin Vladimir
  * Date   : 2022-08-15
  */
-
 public class Problem3 {
     public int lengthOfLongestSubstring(String s) {
         int length = 0;

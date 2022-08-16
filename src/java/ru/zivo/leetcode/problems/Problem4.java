@@ -8,7 +8,6 @@ import java.util.List;
  * Author : Zimin Vladimir
  * Date   : 2022-08-15
  */
-
 public class Problem4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         List<Integer> nums = new ArrayList<>();

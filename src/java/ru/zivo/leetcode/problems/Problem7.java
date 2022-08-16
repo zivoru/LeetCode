@@ -5,7 +5,6 @@ package java.ru.zivo.leetcode.problems;
  * Author : Zimin Vladimir
  * Date   : 2022-07-23
  */
-
 public class Problem7 {
     public int reverse(int x) {
         StringBuilder stringBuilder = new StringBuilder(String.valueOf(x));

@@ -5,7 +5,6 @@ package java.ru.zivo.leetcode.problems;
  * Author : Zimin Vladimir
  * Date   : 2022-08-15
  */
-
 public class Problem5 {
     public static String longestPalindrome(String s) {
         String result = "";
