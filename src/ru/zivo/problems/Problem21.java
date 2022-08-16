@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Source : https://leetcode.com/problems/median-of-two-sorted-arrays
+ * Source : https://leetcode.com/problems/merge-two-sorted-lists
  * Author : Zimin Vladimir
  * Date   : 2022-08-15
  */

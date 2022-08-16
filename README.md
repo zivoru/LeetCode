@@ -2,7 +2,7 @@
 
 | #   | Название                                                                                                                       | Решение                                                                                    | Сложность |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------|
-| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/median-of-two-sorted-arrays)                                            | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem21.java) | Easy      |
+| 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                 | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem21.java) | Easy      |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                           | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem20.java) | Easy      |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                                           | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem9.java)  | Easy      |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                                                               | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem7.java)  | Medium    |
