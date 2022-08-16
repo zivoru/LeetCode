@@ -2,6 +2,7 @@
 
 | #   | Название                                                                                                                       | Решение                                                                                    | Сложность |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------|
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element)                                                                 | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem27.java) | Easy      |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                       | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem26.java) | Easy      |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)                                                 | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem21.java) | Easy      |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)                                                           | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem20.java) | Easy      |
