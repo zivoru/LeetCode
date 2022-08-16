@@ -1,4 +1,4 @@
-package java.ru.zivo.leetcode.problems;
+package ru.zivo.problems;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,6 @@ import java.util.List;
  * Author : Zimin Vladimir
  * Date   : 2022-07-27
  */
-
 public class Problem20 {
     public boolean isValid(String s) {
         List<Character> stack = new ArrayList<>();

@@ -1,4 +1,4 @@
-package java.ru.zivo.leetcode.problems;
+package ru.zivo.problems;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,6 @@ import java.util.List;
  * Author : Zimin Vladimir
  * Date   : 2022-08-15
  */
-
 public class Problem21 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ArrayList<Integer> list = new ArrayList<>();

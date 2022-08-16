@@ -1,11 +1,10 @@
-package java.ru.zivo.leetcode.problems;
+package ru.zivo.problems;
 
 /**
  * Source : https://leetcode.com/problems/longest-palindromic-substring
  * Author : Zimin Vladimir
  * Date   : 2022-08-15
  */
-
 public class Problem5 {
     public static String longestPalindrome(String s) {
         String result = "";
