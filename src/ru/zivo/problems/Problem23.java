@@ -1,6 +1,7 @@
 package ru.zivo.problems;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -10,17 +11,17 @@ import java.util.List;
  */
 public class Problem23 {
     public ListNode mergeKLists(ListNode[] lists) {
-        ArrayList<Integer> list = new ArrayList<>();
+        List<Integer> integers = new ArrayList<>();
         for (ListNode listNode : lists) {
             while (listNode != null) {
-                list.add(listNode.val);
+                integers.add(listNode.val);
                 listNode = listNode.next;
             }
         }
+        Collections.sort(integers);
 
         ListNode dummyHead = new ListNode(0);
         ListNode curr = dummyHead;
-        List<Integer> integers = list.stream().sorted().toList();
         for (Integer integer : integers) {
             curr.next = new ListNode(integer);
             curr = curr.next;

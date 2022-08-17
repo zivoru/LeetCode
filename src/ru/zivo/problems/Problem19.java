@@ -1,7 +1,5 @@
 package ru.zivo.problems;
 
-import java.util.LinkedList;
-
 /**
  * Source : https://leetcode.com/problems/remove-nth-node-from-end-of-list
  * Author : Zimin Vladimir
@@ -9,16 +7,26 @@ import java.util.LinkedList;
  */
 public class Problem19 {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        LinkedList<Integer> list = new LinkedList<>();
-        while (head != null) {
-            list.add(head.val);
-            head = head.next;
+        ListNode dummyHead = new ListNode(0, head);
+        int size = 0;
+        while (dummyHead.next != null) {
+            size++;
+            dummyHead.next = dummyHead.next.next;
         }
-        list.remove(list.size() - n);
-        ListNode dummyHead = new ListNode(0);
         ListNode curr = dummyHead;
-        for (Integer integer : list) {
-            curr.next = new ListNode(integer);
+        int position = size - n;
+        for (int i = 0; head != null; i++) {
+            if (i == position) {
+                if (head.next != null) {
+                    curr.next = new ListNode(head.next.val);
+                    head = head.next.next;
+                } else {
+                    head = null;
+                }
+            } else {
+                curr.next = new ListNode(head.val);
+                head = head.next;
+            }
             curr = curr.next;
         }
         return dummyHead.next;

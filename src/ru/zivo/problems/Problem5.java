@@ -7,15 +7,15 @@ package ru.zivo.problems;
  */
 public class Problem5 {
     public static String longestPalindrome(String s) {
+        if (s.length() == 1) return s;
         String result = "";
 
         for (int d = 0; d < s.length(); d++) {
-            StringBuilder stringBuilder = new StringBuilder();
             for (int i = d; i < s.length(); i++) {
-                stringBuilder.append(s.charAt(i));
-                if (stringBuilder.toString().equals(new StringBuffer(stringBuilder).reverse().toString())) {
-                    if (stringBuilder.length() > result.length()) {
-                        result = stringBuilder.toString();
+                String substring = s.substring(d, i + 1);
+                if (substring.length() > result.length()) {
+                    if (substring.equals(new StringBuilder(substring).reverse().toString())) {
+                        result = substring;
                     }
                 }
             }
