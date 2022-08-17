@@ -2,6 +2,7 @@
 
 | #   | Название                                                                                                                       | Решение                                                                                     | Сложность |
 |-----|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)                                               | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem804.java) | Easy      |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)                         | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem387.java) | Easy      |
 | 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr)                                                           | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem28.java)  | Easy      |
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element)                                                                 | [Java](https://github.com/zivoru/LeetCode/blob/master/src/ru/zivo/problems/Problem27.java)  | Easy      |
