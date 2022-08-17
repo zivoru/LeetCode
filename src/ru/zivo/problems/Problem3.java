@@ -13,7 +13,7 @@ public class Problem3 {
         int length = 0;
         Map<Character, Integer> chars = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
-            if (chars.get(s.charAt(i)) == null) {
+            if (!chars.containsKey(s.charAt(i))) {
                 chars.put(s.charAt(i), i);
             } else {
                 i = chars.get(s.charAt(i));

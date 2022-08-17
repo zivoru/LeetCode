@@ -15,13 +15,13 @@ public class Problem387 {
             char c = s.charAt(i);
             boolean d = true;
             for (int j = i + 1; j < s.length(); j++) {
-                if (c == s.charAt(j) || map.get(c) != null) {
+                if (c == s.charAt(j) || map.containsKey(c)) {
                     d = false;
                     map.put(c, 0);
                     break;
                 }
             }
-            if (d && map.get(c) == null) return i;
+            if (d && !map.containsKey(c)) return i;
         }
         return -1;
     }
