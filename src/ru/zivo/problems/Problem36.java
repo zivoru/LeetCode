@@ -31,23 +31,19 @@ public class Problem36 {
                         line.add(board[i][j]);
                     }
 
-                    if (j == 0 || j == 1 || j == 2) {
+                    if (j <= 2) {
                         if (square1.contains(board[i][j])) {
                             return false;
                         } else {
                             square1.add(board[i][j]);
                         }
-                    }
-
-                    if (j == 3 || j == 4 || j == 5) {
+                    } else if (j <= 5) {
                         if (square2.contains(board[i][j])) {
                             return false;
                         } else {
                             square2.add(board[i][j]);
                         }
-                    }
-
-                    if (j == 6 || j == 7 || j == 8) {
+                    } else {
                         if (square3.contains(board[i][j])) {
                             return false;
                         } else {
