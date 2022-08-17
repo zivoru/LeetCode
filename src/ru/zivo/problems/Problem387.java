@@ -1,7 +1,7 @@
 package ru.zivo.problems;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * Source : https://leetcode.com/problems/first-unique-character-in-a-string
@@ -10,18 +10,18 @@ import java.util.Map;
  */
 public class Problem387 {
     public int firstUniqChar(String s) {
-        Map<Character, Integer> map = new HashMap<>();
+        Set<Character> chars = new HashSet<>();
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             boolean d = true;
             for (int j = i + 1; j < s.length(); j++) {
-                if (c == s.charAt(j) || map.containsKey(c)) {
+                if (c == s.charAt(j) || chars.contains(c)) {
                     d = false;
-                    map.put(c, 0);
+                    chars.add(c);
                     break;
                 }
             }
-            if (d && !map.containsKey(c)) return i;
+            if (d && !chars.contains(c)) return i;
         }
         return -1;
     }

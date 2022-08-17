@@ -1,7 +1,7 @@
 package ru.zivo.problems;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * Source : https://leetcode.com/problems/valid-sudoku
@@ -10,9 +10,9 @@ import java.util.Map;
  */
 public class Problem36 {
     public boolean isValidSudoku(char[][] board) {
-        Map<Character, Byte> square1 = new HashMap<>();
-        Map<Character, Byte> square2 = new HashMap<>();
-        Map<Character, Byte> square3 = new HashMap<>();
+        Set<Character> square1 = new HashSet<>();
+        Set<Character> square2 = new HashSet<>();
+        Set<Character> square3 = new HashSet<>();
 
         for (int i = 0; i < board.length; i++) {
             if (i == 3 || i == 6) {
@@ -21,37 +21,37 @@ public class Problem36 {
                 square3.clear();
             }
 
-            Map<Character, Byte> map = new HashMap<>();
+            Set<Character> line = new HashSet<>();
 
             for (int j = 0; j < board[i].length; j++) {
                 if (board[i][j] != '.') {
-                    if (map.containsKey(board[i][j])) {
+                    if (line.contains(board[i][j])) {
                         return false;
                     } else {
-                        map.put(board[i][j], (byte) 1);
+                        line.add(board[i][j]);
                     }
 
                     if (j == 0 || j == 1 || j == 2) {
-                        if (square1.containsKey(board[i][j])) {
+                        if (square1.contains(board[i][j])) {
                             return false;
                         } else {
-                            square1.put(board[i][j], (byte) 1);
+                            square1.add(board[i][j]);
                         }
                     }
 
                     if (j == 3 || j == 4 || j == 5) {
-                        if (square2.containsKey(board[i][j])) {
+                        if (square2.contains(board[i][j])) {
                             return false;
                         } else {
-                            square2.put(board[i][j], (byte) 1);
+                            square2.add(board[i][j]);
                         }
                     }
 
                     if (j == 6 || j == 7 || j == 8) {
-                        if (square3.containsKey(board[i][j])) {
+                        if (square3.contains(board[i][j])) {
                             return false;
                         } else {
-                            square3.put(board[i][j], (byte) 1);
+                            square3.add(board[i][j]);
                         }
                     }
 
