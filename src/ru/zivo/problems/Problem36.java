@@ -31,24 +31,19 @@ public class Problem36 {
                         line.add(board[i][j]);
                     }
 
+                    Set<Character> dummySquare;
                     if (j <= 2) {
-                        if (square1.contains(board[i][j])) {
-                            return false;
-                        } else {
-                            square1.add(board[i][j]);
-                        }
+                        dummySquare = square1;
                     } else if (j <= 5) {
-                        if (square2.contains(board[i][j])) {
-                            return false;
-                        } else {
-                            square2.add(board[i][j]);
-                        }
+                        dummySquare = square2;
                     } else {
-                        if (square3.contains(board[i][j])) {
-                            return false;
-                        } else {
-                            square3.add(board[i][j]);
-                        }
+                        dummySquare = square3;
+                    }
+
+                    if (dummySquare.contains(board[i][j])) {
+                        return false;
+                    } else {
+                        dummySquare.add(board[i][j]);
                     }
 
                     for (int k = i + 1; k < board.length; k++) {
