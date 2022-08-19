@@ -1,10 +1,5 @@
 package ru.zivo.problems;
 
-import java.util.HashMap;
-import java.util.LinkedHashSet;
-import java.util.Map;
-import java.util.Set;
-
 /**
  * Source : https://leetcode.com/problems/remove-duplicates-from-sorted-array
  * Author : Zimin Vladimir
@@ -13,20 +8,21 @@ import java.util.Set;
 
 public class Problem26 {
     public int removeDuplicates(int[] nums) {
-        Set<Integer> result = new LinkedHashSet<>();
-        for (int num : nums) {
-            result.add(num);
+        int c = 0;
+        int result = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (i + 1 != nums.length) {
+                if (nums[i] == nums[i + 1]) {
+                    c++;
+                } else {
+                    nums[i - c] = nums[i];
+                    result++;
+                }
+            } else {
+                nums[i - c] = nums[i];
+                result++;
+            }
         }
-
-        int i = 0;
-        for (Integer integer : result) {
-            nums[i] = integer;
-            i++;
-        }
-
-        for (int j = result.size(); j < nums.length; j++) {
-            nums[j] = 0;
-        }
-        return result.size();
+        return result;
     }
 }
