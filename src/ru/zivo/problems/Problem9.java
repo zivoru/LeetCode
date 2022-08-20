@@ -7,6 +7,10 @@ package ru.zivo.problems;
  */
 public class Problem9 {
     public boolean isPalindrome(int x) {
-        return String.valueOf(x).equals(new StringBuilder(String.valueOf(x)).reverse().toString());
+        if (x < 0) return false;
+        int reversed = 0;
+        for (int i = x; i != 0; i /= 10)
+            reversed = (i % 10) + (reversed * 10);
+        return x == reversed;
     }
 }
