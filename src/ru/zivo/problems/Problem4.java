@@ -7,28 +7,26 @@ package ru.zivo.problems;
  */
 public class Problem4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] ints = new int[nums1.length + nums2.length];
+        int n1l = nums1.length, n2l = nums2.length, size = n1l + n2l;
+        boolean even = size % 2 != 0;
+        double value1 = -1, value2 = -1;
+        int half = (int) (size * 0.5), c;
 
-        for (int i = 0, j = 0, k = 0; i < nums1.length || j < nums2.length; k++) {
-            if (i < nums1.length && j < nums2.length) {
-                if (nums1[i] < nums2[j]) {
-                    ints[k] = nums1[i];
-                    i++;
-                } else {
-                    ints[k] = nums2[j];
-                    j++;
-                }
-            } else if (i < nums1.length) {
-                ints[k] = nums1[i];
-                i++;
-            } else {
-                ints[k] = nums2[j];
-                j++;
+        for (int i = 0, j = 0, k = 0; i < n1l || j < n2l; k++) {
+            if (i < n1l && j < n2l) {
+                if (nums1[i] < nums2[j]) c = nums1[i++];
+                else c = nums2[j++];
+            } else if (i < n1l) c = nums1[i++];
+            else c = nums2[j++];
+
+            if (even && k == half) return c;
+            if (!even) {
+                if (k == half) value1 = c;
+                if (k == half - 1) value2 = c;
             }
+            if (value1 != -1 && value2 != -1) return (value1 + value2) / 2;
         }
 
-        return ints.length % 2 != 0
-                ? ints[(int) (ints.length * 0.5)]
-                : ((double) ints[(int) (ints.length * 0.5)] + ints[(int) (ints.length * 0.5 - 1)]) / 2;
+        return 0;
     }
 }
