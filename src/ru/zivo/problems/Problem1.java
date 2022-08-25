@@ -4,9 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Source : https://leetcode.com/problems/two-sum
- * Author : Zimin Vladimir
- * Date   : 2022-07-21
+ * Source: https://leetcode.com/problems/two-sum
+ * Title: 1. Two Sum
+ * Difficulty: Easy
  */
 public class Problem1 {
     public int[] twoSum(int[] nums, int target) {

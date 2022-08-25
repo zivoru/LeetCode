@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/length-of-last-word
- * Author : Zimin Vladimir
- * Date   : 2022-08-23
+ * Source: https://leetcode.com/problems/length-of-last-word
+ * Title: 58. Length of Last Word
+ * Difficulty: Easy
  */
 public class Problem58 {
     public int lengthOfLastWord(String s) {

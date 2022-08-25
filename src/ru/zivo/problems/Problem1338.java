@@ -3,9 +3,9 @@ package ru.zivo.problems;
 import java.util.Arrays;
 
 /**
- * Source : https://leetcode.com/problems/reduce-array-size-to-the-half
- * Author : Zimin Vladimir
- * Date   : 2022-08-18
+ * Source: https://leetcode.com/problems/reduce-array-size-to-the-half
+ * Title: 1338. Reduce Array Size to The Half
+ * Difficulty: Medium
  */
 public class Problem1338 {
     public int minSetSize(int[] arr) {

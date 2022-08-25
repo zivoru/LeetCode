@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Source : https://leetcode.com/problems/group-anagrams
- * Author : Zimin Vladimir
- * Date   : 2022-08-20
+ * Source: https://leetcode.com/problems/group-anagrams
+ * Title: 49. Group Anagrams
+ * Difficulty: Medium
  */
 public class Problem49 {
     public List<List<String>> groupAnagrams(String[] strs) {

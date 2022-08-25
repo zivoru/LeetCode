@@ -5,9 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Source : https://leetcode.com/problems/merge-k-sorted-lists
- * Author : Zimin Vladimir
- * Date   : 2022-08-16
+ * Source: https://leetcode.com/problems/merge-k-sorted-lists
+ * Title: 23. Merge k Sorted Lists
+ * Difficulty: Hard
  */
 public class Problem23 {
     public ListNode mergeKLists(ListNode[] lists) {

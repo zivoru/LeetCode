@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/longest-palindromic-substring
- * Author : Zimin Vladimir
- * Date   : 2022-08-15
+ * Source: https://leetcode.com/problems/longest-palindromic-substring
+ * Title: 5. Longest Palindromic Substring
+ * Difficulty: Medium
  */
 public class Problem5 {
     public String longestPalindrome(String s) {

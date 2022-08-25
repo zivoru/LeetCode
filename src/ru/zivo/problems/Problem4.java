@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/median-of-two-sorted-arrays
- * Author : Zimin Vladimir
- * Date   : 2022-08-15
+ * Source: https://leetcode.com/problems/median-of-two-sorted-arrays
+ * Title: 4. Median of Two Sorted Arrays
+ * Difficulty: Hard
  */
 public class Problem4 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/merge-two-sorted-lists
- * Author : Zimin Vladimir
- * Date   : 2022-08-15
+ * Source: https://leetcode.com/problems/merge-two-sorted-lists
+ * Title: 21. Merge Two Sorted Lists
+ * Difficulty: Easy
  */
 public class Problem21 {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {

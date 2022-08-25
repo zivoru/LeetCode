@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/integer-to-roman
- * Author : Zimin Vladimir
- * Date   : 2022-08-21
+ * Source: https://leetcode.com/problems/integer-to-roman
+ * Title: 12. Integer to Roman
+ * Difficulty: Medium
  */
 public class Problem12 {
     public String intToRoman(int num) {

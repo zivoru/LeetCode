@@ -1,11 +1,10 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/remove-element
- * Author : Zimin Vladimir
- * Date   : 2022-08-16
+ * Source: https://leetcode.com/problems/remove-element
+ * Title: 27. Remove Element
+ * Difficulty: Easy
  */
-
 public class Problem27 {
     public int removeElement(int[] nums, int val) {
         int length = nums.length;

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/implement-strstr
- * Author : Zimin Vladimir
- * Date   : 2022-08-16
+ * Source: https://leetcode.com/problems/implement-strstr
+ * Title: 28. Implement strStr()
+ * Difficulty: Easy
  */
 public class Problem28 {
     public int strStr(String haystack, String needle) {

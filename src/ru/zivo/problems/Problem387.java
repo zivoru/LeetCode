@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Source : https://leetcode.com/problems/first-unique-character-in-a-string
- * Author : Zimin Vladimir
- * Date   : 2022-08-17
+ * Source: https://leetcode.com/problems/first-unique-character-in-a-string
+ * Title: 387. First Unique Character in a String
+ * Difficulty: Easy
  */
 public class Problem387 {
     public int firstUniqChar(String s) {

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/sqrtx
- * Author : Zimin Vladimir
- * Date   : 2022-08-22
+ * Source: https://leetcode.com/problems/sqrtx
+ * Title: 69. Sqrt(x)
+ * Difficulty: Easy
  */
 public class Problem69 {
     public int mySqrt(int x) {

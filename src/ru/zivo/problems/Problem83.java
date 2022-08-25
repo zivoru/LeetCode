@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Source : https://leetcode.com/problems/remove-duplicates-from-sorted-list
- * Author : Zimin Vladimir
- * Date   : 2022-08-20
+ * Source: https://leetcode.com/problems/remove-duplicates-from-sorted-list
+ * Title: 83. Remove Duplicates from Sorted List
+ * Difficulty: Easy
  */
 public class Problem83 {
     public ListNode deleteDuplicates(ListNode head) {

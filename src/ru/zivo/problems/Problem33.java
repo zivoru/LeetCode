@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/search-in-rotated-sorted-array
- * Author : Zimin Vladimir
- * Date   : 2022-08-18
+ * Source: https://leetcode.com/problems/search-in-rotated-sorted-array
+ * Title: 33. Search in Rotated Sorted Array
+ * Difficulty: Medium
  */
 public class Problem33 {
     public int search(int[] nums, int target) {

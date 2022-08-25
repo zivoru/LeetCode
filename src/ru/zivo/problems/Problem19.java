@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/remove-nth-node-from-end-of-list
- * Author : Zimin Vladimir
- * Date   : 2022-08-17
+ * Source: https://leetcode.com/problems/remove-nth-node-from-end-of-list
+ * Title: 19. Remove Nth Node From End of List
+ * Difficulty: Medium
  */
 public class Problem19 {
     public ListNode removeNthFromEnd(ListNode head, int n) {

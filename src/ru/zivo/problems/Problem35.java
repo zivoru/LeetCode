@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/search-insert-position
- * Author : Zimin Vladimir
- * Date   : 2022-08-18
+ * Source: https://leetcode.com/problems/search-insert-position
+ * Title: 35. Search Insert Position
+ * Difficulty: Easy
  */
 public class Problem35 {
     public int searchInsert(int[] nums, int target) {

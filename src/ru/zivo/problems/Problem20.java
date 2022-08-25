@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Source : https://leetcode.com/problems/valid-parentheses
- * Author : Zimin Vladimir
- * Date   : 2022-07-27
+ * Source: https://leetcode.com/problems/valid-parentheses
+ * Title: 20. Valid Parentheses
+ * Difficulty: Easy
  */
 public class Problem20 {
     public boolean isValid(String s) {

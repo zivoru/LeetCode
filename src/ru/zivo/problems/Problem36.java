@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Source : https://leetcode.com/problems/valid-sudoku
- * Author : Zimin Vladimir
- * Date   : 2022-08-17
+ * Source: https://leetcode.com/problems/valid-sudoku
+ * Title: 36. Valid Sudoku
+ * Difficulty: Medium
  */
 public class Problem36 {
     public boolean isValidSudoku(char[][] board) {

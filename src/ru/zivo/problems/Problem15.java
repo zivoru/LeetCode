@@ -3,9 +3,9 @@ package ru.zivo.problems;
 import java.util.*;
 
 /**
- * Source : https://leetcode.com/problems/3sum
- * Author : Zimin Vladimir
- * Date   : 2022-08-21
+ * Source: https://leetcode.com/problems/3sum
+ * Title: 15. 3Sum
+ * Difficulty: Medium
  */
 public class Problem15 {
     public List<List<Integer>> threeSum(int[] nums) {

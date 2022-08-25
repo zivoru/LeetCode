@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/container-with-most-water
- * Author : Zimin Vladimir
- * Date   : 2022-08-20
+ * Source: https://leetcode.com/problems/container-with-most-water
+ * Title: 11. Container With Most Water
+ * Difficulty: Medium
  */
 public class Problem11 {
     public int maxArea(int[] height) {

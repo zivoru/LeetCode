@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/palindrome-number
- * Author : Zimin Vladimir
- * Date   : 2022-07-23
+ * Source: https://leetcode.com/problems/palindrome-number
+ * Title: 9. Palindrome Number
+ * Difficulty: Easy
  */
 public class Problem9 {
     public boolean isPalindrome(int x) {

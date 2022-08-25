@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Source : https://leetcode.com/problems/unique-morse-code-words
- * Author : Zimin Vladimir
- * Date   : 2022-08-17
+ * Source: https://leetcode.com/problems/unique-morse-code-words
+ * Title: 804. Unique Morse Code Words
+ * Difficulty: Easy
  */
 public class Problem804 {
     public int uniqueMorseRepresentations(String[] words) {

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/swap-nodes-in-pairs
- * Author : Zimin Vladimir
- * Date   : 2022-08-18
+ * Source: https://leetcode.com/problems/swap-nodes-in-pairs
+ * Title: 24. Swap Nodes in Pairs
+ * Difficulty: Medium
  */
 public class Problem24 {
     public ListNode swapPairs(ListNode head) {

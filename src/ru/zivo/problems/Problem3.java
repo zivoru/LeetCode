@@ -4,9 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Source : https://leetcode.com/problems/longest-substring-without-repeating-characters
- * Author : Zimin Vladimir
- * Date   : 2022-08-15
+ * Source: https://leetcode.com/problems/longest-substring-without-repeating-characters
+ * Title: 3. Longest Substring Without Repeating Characters
+ * Difficulty: Medium
  */
 public class Problem3 {
     public int lengthOfLongestSubstring(String s) {

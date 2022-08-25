@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/powx-n
- * Author : Zimin Vladimir
- * Date   : 2022-08-23
+ * Source: https://leetcode.com/problems/powx-n
+ * Title: 50. Pow(x, n)
+ * Difficulty: Medium
  */
 public class Problem50 {
     public double myPow(double x, int n) {

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/palindrome-linked-list
- * Author : Zimin Vladimir
- * Date   : 2022-08-23
+ * Source: https://leetcode.com/problems/palindrome-linked-list
+ * Title: 234. Palindrome Linked List
+ * Difficulty: Easy
  */
 public class Problem234 {
     public boolean isPalindrome(ListNode head) {

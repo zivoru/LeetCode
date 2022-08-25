@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/remove-duplicates-from-sorted-array
- * Author : Zimin Vladimir
- * Date   : 2022-08-16
+ * Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array
+ * Title: 26. Remove Duplicates from Sorted Array
+ * Difficulty: Easy
  */
 
 public class Problem26 {

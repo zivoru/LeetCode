@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/reverse-integer
- * Author : Zimin Vladimir
- * Date   : 2022-07-23
+ * Source: https://leetcode.com/problems/reverse-integer
+ * Title: 7. Reverse Integer
+ * Difficulty: Medium
  */
 public class Problem7 {
     public int reverse(int x) {

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/merge-sorted-array
- * Author : Zimin Vladimir
- * Date   : 2022-08-19
+ * Source: https://leetcode.com/problems/merge-sorted-array
+ * Title: 88. Merge Sorted Array
+ * Difficulty: Easy
  */
 public class Problem88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

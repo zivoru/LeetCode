@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
- * Author : Zimin Vladimir
- * Date   : 2022-08-18
+ * Source: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+ * Title: 34. Find First and Last Position of Element in Sorted Array
+ * Difficulty: Medium
  */
 public class Problem34 {
     public int[] searchRange(int[] nums, int target) {

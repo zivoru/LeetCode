@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/plus-one
- * Author : Zimin Vladimir
- * Date   : 2022-08-22
+ * Source: https://leetcode.com/problems/plus-one
+ * Title: 66. Plus One
+ * Difficulty: Easy
  */
 public class Problem66 {
     public int[] plusOne(int[] digits) {

@@ -1,9 +1,9 @@
 package ru.zivo.problems;
 
 /**
- * Source : https://leetcode.com/problems/add-two-numbers
- * Author : Zimin Vladimir
- * Date   : 2022-08-17
+ * Source: https://leetcode.com/problems/add-two-numbers
+ * Title: 2. Add Two Numbers
+ * Difficulty: Medium
  */
 public class Problem2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

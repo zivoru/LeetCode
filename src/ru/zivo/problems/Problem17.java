@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Source : https://leetcode.com/problems/letter-combinations-of-a-phone-number
- * Author : Zimin Vladimir
- * Date   : 2022-08-17
+ * Source: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+ * Title: 17. Letter Combinations of a Phone Number
+ * Difficulty: Medium
  */
 public class Problem17 {
     public List<String> letterCombinations(String digits) {
