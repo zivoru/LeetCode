@@ -9,13 +9,25 @@ import java.util.*;
  */
 public class Problem869 {
     public boolean reorderedPowerOf2(int n) {
-        char[] chars = String.valueOf(n).toCharArray();
-        Arrays.sort(chars);
-        for (int i = 1; i != 0; i *= 2) {
-            char[] chars1 = String.valueOf(i).toCharArray();
-            Arrays.sort(chars1);
-            if (Arrays.equals(chars, chars1)) return true;
+        for (int i = 1; i != 0; i <<= 1) {
+            String s = String.valueOf(n);
+            String s1 = String.valueOf(i);
+            if (s.length() != s1.length()) continue;
+            if (s.length() < s1.length()) return false;
+            if (canConstruct(s, s1)) return true;
         }
         return false;
+    }
+
+    public boolean canConstruct(String ransomNote, String magazine) {
+        int[] chars = new int[123];
+        for (char c : magazine.toCharArray()) {
+            chars[c] += 1;
+        }
+        for (char c : ransomNote.toCharArray()) {
+            if (chars[c] == 0) return false;
+            chars[c] -= 1;
+        }
+        return true;
     }
 }
