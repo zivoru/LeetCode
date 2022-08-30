@@ -51,13 +51,13 @@ public class Problem22 {
             char character = index >= 0 ? stack.get(index) : 'o';
             if (character == '(') {
                 if (c == ')') stack.remove(index--);
-                else if (c == ']' || c == '}') return false;
+                if (c == ']' || c == '}') return false;
             } else if (character == '[') {
                 if (c == ']') stack.remove(index--);
-                else if (c == ')' || c == '}') return false;
+                if (c == ')' || c == '}') return false;
             } else if (character == '{') {
                 if (c == '}') stack.remove(index--);
-                else if (c == ']' || c == ')') return false;
+                if (c == ']' || c == ')') return false;
             } else return false;
         }
         return stack.isEmpty();

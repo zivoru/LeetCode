@@ -1,4 +1,3 @@
-# LeetCode
 | Problem                                                                                                                                              | Solution                                                  | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------|
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)                                               | [Problem2125.java](src/ru/zivo/problems/Problem2125.java) | Medium     |
@@ -7,6 +6,7 @@
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)                                                                | [Problem804.java](src/ru/zivo/problems/Problem804.java)   | Easy       |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)                                          | [Problem387.java](src/ru/zivo/problems/Problem387.java)   | Easy       |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note)                                                                                        | [Problem383.java](src/ru/zivo/problems/Problem383.java)   | Easy       |
+| [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)                                    | [Problem363.java](src/ru/zivo/problems/Problem363.java)   | Hard       |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)                                                          | [Problem345.java](src/ru/zivo/problems/Problem345.java)   | Easy       |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string)                                                                                  | [Problem344.java](src/ru/zivo/problems/Problem344.java)   | Easy       |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four)                                                                                    | [Problem342.java](src/ru/zivo/problems/Problem342.java)   | Easy       |
@@ -39,12 +39,16 @@
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image)                                                                                       | [Problem48.java](src/ru/zivo/problems/Problem48.java)     | Medium     |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                                | [Problem47.java](src/ru/zivo/problems/Problem47.java)     | Medium     |
 | [46. Permutations](https://leetcode.com/problems/permutations)                                                                                       | [Problem46.java](src/ru/zivo/problems/Problem46.java)     | Medium     |
+| [43. Multiply Strings](https://leetcode.com/problems/multiply-strings)                                                                               | [Problem43.java](src/ru/zivo/problems/Problem43.java)     | Medium     |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)                                                                         | [Problem42.java](src/ru/zivo/problems/Problem42.java)     | Hard       |
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive)                                                                   | [Problem41.java](src/ru/zivo/problems/Problem41.java)     | Hard       |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum)                                                                                 | [Problem39.java](src/ru/zivo/problems/Problem39.java)     | Medium     |
+| [38. Count and Say](https://leetcode.com/problems/count-and-say)                                                                                     | [Problem38.java](src/ru/zivo/problems/Problem38.java)     | Medium     |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                                                                       | [Problem36.java](src/ru/zivo/problems/Problem36.java)     | Medium     |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)                                                                   | [Problem35.java](src/ru/zivo/problems/Problem35.java)     | Easy       |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Problem34.java](src/ru/zivo/problems/Problem34.java)     | Medium     |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)                                                   | [Problem33.java](src/ru/zivo/problems/Problem33.java)     | Medium     |
+| [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)                             | [Problem30.java](src/ru/zivo/problems/Problem30.java)     | Hard       |
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr)                                                                             | [Problem28.java](src/ru/zivo/problems/Problem28.java)     | Easy       |
 | [27. Remove Element](https://leetcode.com/problems/remove-element)                                                                                   | [Problem27.java](src/ru/zivo/problems/Problem27.java)     | Easy       |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)                                         | [Problem26.java](src/ru/zivo/problems/Problem26.java)     | Easy       |
