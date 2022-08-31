@@ -1,3 +1,4 @@
+# LeetCode
 | Problem                                                                                                                                              | Solution                                                  | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------|
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)                                               | [Problem2125.java](src/ru/zivo/problems/Problem2125.java) | Medium     |
@@ -6,6 +7,7 @@
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)                                                                | [Problem804.java](src/ru/zivo/problems/Problem804.java)   | Easy       |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)                                          | [Problem387.java](src/ru/zivo/problems/Problem387.java)   | Easy       |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note)                                                                                        | [Problem383.java](src/ru/zivo/problems/Problem383.java)   | Easy       |
+| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)                                                                      | [Problem367.java](src/ru/zivo/problems/Problem367.java)   | Easy       |
 | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)                                    | [Problem363.java](src/ru/zivo/problems/Problem363.java)   | Hard       |
 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)                                                          | [Problem345.java](src/ru/zivo/problems/Problem345.java)   | Easy       |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string)                                                                                  | [Problem344.java](src/ru/zivo/problems/Problem344.java)   | Easy       |
@@ -29,6 +31,8 @@
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                                                      | [Problem104.java](src/ru/zivo/problems/Problem104.java)   | Easy       |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)                                            | [Problem102.java](src/ru/zivo/problems/Problem102.java)   | Medium     |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree)                                                                                  | [Problem101.java](src/ru/zivo/problems/Problem101.java)   | Easy       |
+| [100. Same Tree](https://leetcode.com/problems/same-tree)                                                                                            | [Problem100.java](src/ru/zivo/problems/Problem100.java)   | Easy       |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)                                                     | [Problem94.java](src/ru/zivo/problems/Problem94.java)     | Easy       |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)                                                                           | [Problem88.java](src/ru/zivo/problems/Problem88.java)     | Easy       |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)                                           | [Problem83.java](src/ru/zivo/problems/Problem83.java)     | Easy       |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                                                                   | [Problem69.java](src/ru/zivo/problems/Problem69.java)     | Easy       |

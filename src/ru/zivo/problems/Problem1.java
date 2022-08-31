@@ -1,8 +1,5 @@
 package ru.zivo.problems;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * Source: https://leetcode.com/problems/two-sum
  * Title: 1. Two Sum
@@ -10,15 +7,20 @@ import java.util.Map;
  */
 public class Problem1 {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(target - nums[i])) {
-                return new int[]{i, map.get(target - nums[i])};
-            } else {
-                map.put(nums[i], i);
+        for (int i = 0; i < nums.length - 1; i++) {
+            if ((nums[i] + nums[i + 1]) == target) {
+                return new int[]{i, i + 1};
             }
         }
+
+        for (int i = 0; i < nums.length - 1; i++) {
+            for (int j = i + 2; j < nums.length; j++) {
+                if (nums[i] + nums[j] == target) {
+                    return new int[]{i, j};
+                }
+            }
+        }
+
         return null;
     }
 }

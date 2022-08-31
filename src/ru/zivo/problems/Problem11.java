@@ -7,11 +7,8 @@ package ru.zivo.problems;
  */
 public class Problem11 {
     public int maxArea(int[] height) {
-        int maxArea = 0;
-        int left = 0;
-        int right = height.length - 1;
+        int maxArea = 0, left = 0, right = height.length - 1, area;
         while (left < right) {
-            int area;
             if (height[left] < height[right]) {
                 area = height[left] * (right - left);
                 if (area > maxArea) {

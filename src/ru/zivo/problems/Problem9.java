@@ -7,10 +7,15 @@ package ru.zivo.problems;
  */
 public class Problem9 {
     public boolean isPalindrome(int x) {
-        if (x < 0) return false;
-        int reversed = 0;
-        for (int i = x; i != 0; i /= 10)
-            reversed = (i % 10) + (reversed * 10);
-        return x == reversed;
+        if (x < 0) {
+            return false;
+        }
+        int rev = 0;
+        int temp = x;
+        while (temp != 0) {
+            rev = rev * 10 + temp % 10;
+            temp /= 10;
+        }
+        return rev == x;
     }
 }

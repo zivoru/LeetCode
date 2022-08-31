@@ -1,8 +1,5 @@
 package ru.zivo.problems;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * Source: https://leetcode.com/problems/longest-substring-without-repeating-characters
  * Title: 3. Longest Substring Without Repeating Characters
@@ -10,19 +7,13 @@ import java.util.Map;
  */
 public class Problem3 {
     public int lengthOfLongestSubstring(String s) {
-        int length = 0;
-        Map<Character, Integer> chars = new HashMap<>();
+        int max = 0, start = 0;
         for (int i = 0; i < s.length(); i++) {
-            if (!chars.containsKey(s.charAt(i))) {
-                chars.put(s.charAt(i), i);
-            } else {
-                i = chars.get(s.charAt(i));
-                if (chars.size() > length) {
-                    length = chars.size();
-                }
-                chars.clear();
+            if (s.indexOf(s.charAt(i), start) != i) {
+                start = s.indexOf(s.charAt(i), start) + 1;
             }
+            max = Math.max(max, i - start + 1);
         }
-        return Math.max(chars.size(), length);
+        return max;
     }
 }
