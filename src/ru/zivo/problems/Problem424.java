@@ -7,18 +7,14 @@ package ru.zivo.problems;
  */
 public class Problem424 {
     public int characterReplacement(String s, int k) {
-        if (s.length() == 1) return 1;
-        int[] array = new int[26];
-        int start = 0, maxCount = 0, ans = 0;
-        for (int end = 0; end < s.length(); end++) {
-            array[s.charAt(end) - 'A']++;
-            maxCount = Math.max(array[s.charAt(end) - 'A'], maxCount);
-            if ((end - start + 1) - maxCount > k) {
-                array[s.charAt(start) - 'A']--;
-                start++;
-            }
-            ans = Math.max(ans, end - start + 1);
+        int[] quantity = new int[91];
+        int left = 0, maxCount = 0, result = 0;
+        for (int right = 0; right < s.length(); right++) {
+            maxCount = Math.max(++quantity[s.charAt(right)], maxCount);
+            if (right - left + 1 - maxCount > k)
+                quantity[s.charAt(left++)]--;
+            result = Math.max(right - left + 1, result);
         }
-        return ans;
+        return result;
     }
 }
