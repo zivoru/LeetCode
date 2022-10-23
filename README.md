@@ -1,6 +1,7 @@
 # LeetCode
 | Problem                                                                                                                                              | Solution                                                  | Difficulty |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------|
+| [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers)                                                                             | [Problem2235.java](src/ru/zivo/problems/Problem2235.java) | Easy       |
 | [2131. Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words)     | [Problem2131.java](src/ru/zivo/problems/Problem2131.java) | Medium     |
 | [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)                                               | [Problem2125.java](src/ru/zivo/problems/Problem2125.java) | Medium     |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)                                                                 | [Problem1929.java](src/ru/zivo/problems/Problem1929.java) | Easy       |
