@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 85ㅤ|ㅤMedium: 59ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 85ㅤ|ㅤMedium: 60ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -24,6 +24,7 @@
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                               | [Problem1480.java](src/ru/zivo/problems/Problem1480.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1470.java](src/ru/zivo/problems/Problem1470.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                   | [Problem1338.java](src/ru/zivo/problems/Problem1338.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
+| [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                               | [Problem1305.java](src/ru/zivo/problems/Problem1305.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                         | [Problem1302.java](src/ru/zivo/problems/Problem1302.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ     | [Problem1282.java](src/ru/zivo/problems/Problem1282.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                               | [Problem1108.java](src/ru/zivo/problems/Problem1108.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
