@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 85ㅤ|ㅤMedium: 63ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 85ㅤ|ㅤMedium: 64ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -34,6 +34,7 @@
 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1046.java](src/ru/zivo/problems/Problem1046.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                | [Problem994.java](src/ru/zivo/problems/Problem994.java)    ㅤㅤㅤ ㅤ   | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                          | [Problem976.java](src/ru/zivo/problems/Problem976.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                              | [Problem890.java](src/ru/zivo/problems/Problem890.java)    ㅤㅤㅤ ㅤ   | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                            | [Problem876.java](src/ru/zivo/problems/Problem876.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                      | [Problem869.java](src/ru/zivo/problems/Problem869.java)    ㅤㅤㅤ ㅤ   | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                              | [Problem844.java](src/ru/zivo/problems/Problem844.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
