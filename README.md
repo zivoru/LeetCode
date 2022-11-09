@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 85ㅤ|ㅤMedium: 66ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 85ㅤ|ㅤMedium: 67ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -24,6 +24,7 @@
 | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1816.java](src/ru/zivo/problems/Problem1816.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                             | [Problem1706.java](src/ru/zivo/problems/Problem1706.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                               | [Problem1672.java](src/ru/zivo/problems/Problem1672.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                   | [Problem1669.java](src/ru/zivo/problems/Problem1669.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                               | [Problem1480.java](src/ru/zivo/problems/Problem1480.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1470.java](src/ru/zivo/problems/Problem1470.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                   | [Problem1338.java](src/ru/zivo/problems/Problem1338.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
