@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 85ㅤ|ㅤMedium: 67ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 85ㅤ|ㅤMedium: 68ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -21,6 +21,7 @@
 | [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       | [Problem2011.java](src/ru/zivo/problems/Problem2011.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                 | [Problem1929.java](src/ru/zivo/problems/Problem1929.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                     | [Problem1920.java](src/ru/zivo/problems/Problem1920.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                   | [Problem1910.java](src/ru/zivo/problems/Problem1910.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1816.java](src/ru/zivo/problems/Problem1816.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                             | [Problem1706.java](src/ru/zivo/problems/Problem1706.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                               | [Problem1672.java](src/ru/zivo/problems/Problem1672.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
