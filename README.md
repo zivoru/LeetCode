@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 92ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 93ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -51,6 +51,7 @@
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                | [Problem844.java](src/ru/zivo/problems/Problem844.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [815. Bus Routes](https://leetcode.com/problems/bus-routes)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                            | [Problem815.java](src/ru/zivo/problems/Problem815.java)    ㅤㅤㅤ ㅤ   | Hardㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                  | [Problem804.java](src/ru/zivo/problems/Problem804.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                              | [Problem771.java](src/ru/zivo/problems/Problem771.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                | [Problem746.java](src/ru/zivo/problems/Problem746.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                            | [Problem733.java](src/ru/zivo/problems/Problem733.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                | [Problem724.java](src/ru/zivo/problems/Problem724.java)    ㅤㅤㅤ ㅤ   | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
