@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 99ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 100ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -14,6 +14,7 @@
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                         | [Problem2413.java](src/ru/zivo/problems/Problem2413.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                               | [Problem2236.java](src/ru/zivo/problems/Problem2236.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                     | [Problem2235.java](src/ru/zivo/problems/Problem2235.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                 | [Problem2194.java](src/ru/zivo/problems/Problem2194.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                             | [Problem2181.java](src/ru/zivo/problems/Problem2181.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                     | [Problem2161.java](src/ru/zivo/problems/Problem2161.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                       | [Problem2160.java](src/ru/zivo/problems/Problem2160.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
