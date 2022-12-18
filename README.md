@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 100ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 101ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -43,6 +43,7 @@
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                             | [Problem1365.java](src/ru/zivo/problems/Problem1365.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1338.java](src/ru/zivo/problems/Problem1338.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                     | [Problem1325.java](src/ru/zivo/problems/Problem1325.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
+| [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                 | [Problem1313.java](src/ru/zivo/problems/Problem1313.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                       | [Problem1305.java](src/ru/zivo/problems/Problem1305.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                 | [Problem1302.java](src/ru/zivo/problems/Problem1302.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                             | [Problem1282.java](src/ru/zivo/problems/Problem1282.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
