@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 102ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 103ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -12,6 +12,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------|
 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                       | [Problem2469.java](src/ru/zivo/problems/Problem2469.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                         | [Problem2413.java](src/ru/zivo/problems/Problem2413.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [2325. Decode the Message](https://leetcode.com/problems/decode-the-message)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                 | [Problem2325.java](src/ru/zivo/problems/Problem2325.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                               | [Problem2236.java](src/ru/zivo/problems/Problem2236.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                     | [Problem2235.java](src/ru/zivo/problems/Problem2235.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                 | [Problem2194.java](src/ru/zivo/problems/Problem2194.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
