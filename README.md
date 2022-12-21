@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 103ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 104ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -28,6 +28,7 @@
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                         | [Problem1929.java](src/ru/zivo/problems/Problem1929.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                             | [Problem1920.java](src/ru/zivo/problems/Problem1920.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                           | [Problem1910.java](src/ru/zivo/problems/Problem1910.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
+| [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                             | [Problem1859.java](src/ru/zivo/problems/Problem1859.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                   | [Problem1816.java](src/ru/zivo/problems/Problem1816.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                 | [Problem1720.java](src/ru/zivo/problems/Problem1720.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                     | [Problem1706.java](src/ru/zivo/problems/Problem1706.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
