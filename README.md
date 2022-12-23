@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 105ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 106ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -38,6 +38,7 @@
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1669.java](src/ru/zivo/problems/Problem1669.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | [1603. Design Parking System](https://leetcode.com/problems/design-parking-system)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                           | [Problem1603.java](src/ru/zivo/problems/Problem1603.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                             | [Problem1512.java](src/ru/zivo/problems/Problem1512.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
+| [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                   | [Problem1486.java](src/ru/zivo/problems/Problem1486.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                       | [Problem1480.java](src/ru/zivo/problems/Problem1480.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                   | [Problem1470.java](src/ru/zivo/problems/Problem1470.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                     | [Problem1431.java](src/ru/zivo/problems/Problem1431.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
