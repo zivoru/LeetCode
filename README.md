@@ -4,7 +4,7 @@
     </b>
 </h1>
 
-<h3 align="center">Easy: 107ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
+<h3 align="center">Easy: 108ㅤ|ㅤMedium: 69ㅤ|ㅤHard: 10</h3>
 
 <br/>
 
@@ -37,6 +37,7 @@
 | [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                 | [Problem1678.java](src/ru/zivo/problems/Problem1678.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                       | [Problem1672.java](src/ru/zivo/problems/Problem1672.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1669. Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                           | [Problem1669.java](src/ru/zivo/problems/Problem1669.java)    ㅤㅤㅤ ㅤ | Mediumㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
+| [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                   | [Problem1662.java](src/ru/zivo/problems/Problem1662.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1603. Design Parking System](https://leetcode.com/problems/design-parking-system)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                           | [Problem1603.java](src/ru/zivo/problems/Problem1603.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                             | [Problem1512.java](src/ru/zivo/problems/Problem1512.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
 | [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                   | [Problem1486.java](src/ru/zivo/problems/Problem1486.java)    ㅤㅤㅤ ㅤ | Easyㅤㅤㅤㅤㅤㅤㅤㅤㅤ   |
