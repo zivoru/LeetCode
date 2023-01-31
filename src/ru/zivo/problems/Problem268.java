@@ -7,11 +7,8 @@ package ru.zivo.problems;
  */
 public class Problem268 {
     public int missingNumber(int[] nums) {
-        int[] ints = new int[nums.length + 1];
-        for (int num : nums) ints[num]++;
-        for (int j = 0; j < ints.length; j++) {
-            if (ints[j] == 0) return j;
-        }
-        return -1;
+        int sum = 0;
+        for (int num : nums) sum += num;
+        return (1 + nums.length) * nums.length / 2 - sum;
     }
 }
